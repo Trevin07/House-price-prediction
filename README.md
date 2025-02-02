@@ -1,6 +1,6 @@
 # House Price Prediction
 
-This project is a web application for predicting house prices based on various factors such as location, square footage, number of bathrooms, and number of bedrooms. The application uses machine learning (Linear Regression) to predict the price of a house given these features.
+This project is a web application for predicting house prices based on various factors such as location, square footage, number of bathrooms, and number of bedrooms. The application uses machine learning (Linear Regression ,Neural Networks) to predict the price of a house given these features.
 
 ## Table of Contents
 - [Project Description](#project-description)
